@@ -49,7 +49,7 @@ public class Registro extends AppCompatActivity implements View.OnClickListener 
         nombreguardado = nombre.getText().toString();
         Toast.makeText(getApplicationContext(),"Elemento guardado con exito",Toast.LENGTH_SHORT).show();
         Intent intent = new Intent(Registro.this, Resumen.class);
-        intent.putExtra("Jorge",nombreguardado);
+        intent.putExtra("JORGE",nombreguardado);
         startActivity(intent);
     }
 
