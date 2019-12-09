@@ -22,8 +22,11 @@ public class Encuesta extends AppCompatActivity implements View.OnClickListener 
         cFutbol=findViewById(R.id.chBoxfutbol);
         cTenis=findViewById(R.id.chBoxvoley);
         cBaloncesto=findViewById(R.id.chBoxbasquetball);
+
         radioS=findViewById(R.id.rBsi);
+
         radioN=findViewById(R.id.rBno);
+
         bEcuesta=findViewById(R.id.btnEnviar);
 
         bEcuesta.setOnClickListener(this);
