@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JorgeCofre-Examen</string>
+    <string name="app_usuario">Usuario</string>
+    <string name="app_ingusuario">ingrese Usuario</string>
+    <string name="app_clave">Clave</string>
+    <string name="app_ingclave">ingrese clave</string>
+    <string name="app_ingresar">Ingresar</string>
+
+    <string name="app_ingnombre">Ingresar nombre</string>
+    <string name="app_montoini">Monto Inicial</string>
+    <string name="app_pagomensual">Pago Mensual</string>
+    <string name="app_guardar">Guardar</string>
+    <string name="app_comprobar">Comprobar</string>
+    <string name="app_nombre">Ingrese su nombre</string>
+    <string name="app_monto">ingresa la cantidad a despitar</string>
+
+    <string name="app_mes">esto debe pagar durante 5 meses</string>
+
+</resources>
